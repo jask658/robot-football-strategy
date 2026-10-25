@@ -1,0 +1,33 @@
+# Platform/runtime binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.exp
+*.ilk
+
+# Visual Studio and build products
+.vs/
+Debug/
+Release/
+*.sdf
+*.suo
+*.user
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipch
+
+# Logs, dumps and captured data
+*.log
+*.dmp
+*.vdata
+
+# Archives and generated caches
+*.zip
+*.7z
+*.rar
+__pycache__/
+*.py[cod]
+.venv/

@@ -1,0 +1,57 @@
+{
+    "IS_TEST_MODE": false,
+    "OPPONENT_NAME": "Default",
+    "gBayesPlayTable": "Package/NormalPlay/a_test",
+    "gNormalPlay": "a_test",
+    "gPlayBotSkill": [
+        "getball",
+        "goalie",
+        "goreceivepos",
+        "halt",
+        "normaldef",
+        "passball",
+        "receiveball",
+        "shoot",
+        "stop",
+        "refdef",
+        "gotopos",
+        "penaltydef",
+        "penaltykick",
+        "getplacex",
+        "getplacey"
+    ],
+    "gRefPlayTable": [
+        "Package/BackDef/BackKick_3v3",
+        "Package/BackKick/kick",
+        "Package/CornerDef/Ref_CornerDef",
+        "Package/CornerKick/Ref_CornerKick",
+        "Package/FrontDef/Ref_FrontDef",
+        "Package/FrontKick/Ref_FrontKick",
+        "Package/KickOff/a_kaiqiu",
+        "Package/KickOffDef/Ref_KickOffDef",
+        "Package/MiddleDef/Ref_MiddleDef",
+        "Package/MiddleKick/Ref_MiddleKick",
+        "Package/NormalPlay/a_test",
+        "Package/PenaltyDef/Ref_PenaltyDef",
+        "Package/PenaltyKick/Ref_PenaltyKick",
+        "Package/GameStop/Ref_Stop",
+        "Package/PlaceBall/Ref_PlaceBall",
+        "Package/PlaceBallDef/Ref_PlaceBallDef",
+        "Package/Ref_Halt"
+    ],
+    "gRoleFixNum": {
+        "Goalie": 1,
+        "Kicker": 2,
+        "Receiver": 3
+    },
+    "gSkill": [
+        "TierSkill",
+        "ReceiverSkill",
+        "MiddleSkill",
+        "KickerSkill",
+        "GoalieSkill",
+        "DefenderSkill"
+    ],
+    "gTestPlay": "",
+    "gTestPlayTable": ""
+}

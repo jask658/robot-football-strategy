@@ -1,0 +1,1022 @@
+{
+  "source_archive": "SOM v3.4.2.7z",
+  "public_version": "v5.2",
+  "platform": "SOM v3.4.2",
+  "files": [
+    {
+      "path": "strategy/config_blue.json",
+      "size": 1500,
+      "sha256": "670fbedbd169fe04036959bc204c2920fd19f03beaa62edbf5013700d729adf4"
+    },
+    {
+      "path": "strategy/Config_blue.lua",
+      "size": 541,
+      "sha256": "fda6ec86d5394bccf9d6a5540822bbc08f1d6fd7864e7268e795eb74a00a831b"
+    },
+    {
+      "path": "strategy/config_yellow.json",
+      "size": 917,
+      "sha256": "9f356b33a3e01a43edaa9a79c92fddd2274704c5f1a090343892ee608a1b157d"
+    },
+    {
+      "path": "strategy/Config_yellow.lua",
+      "size": 543,
+      "sha256": "3ba44a70c82c756769263899e0db000de387fd3f9320ed7998a2396f9b7331ac"
+    },
+    {
+      "path": "strategy/json.lua",
+      "size": 10014,
+      "sha256": "9f5d8e50863a5b3729dbfa9b119c6153a43f3aaaf75726e586d47aeaeaa6de31"
+    },
+    {
+      "path": "strategy/linter.lua",
+      "size": 1573,
+      "sha256": "04cc2617b1e832f44e2f9cfd8ec95dfcbe37e2f8bbf66b8563bdaf06f14381ef"
+    },
+    {
+      "path": "strategy/opponent/Default.lua",
+      "size": 596,
+      "sha256": "f0fa975638c58bae108121fac922df6cd0d0c35df0ba7b47712b4ec9498f3bab"
+    },
+    {
+      "path": "strategy/opponent/K1.lua",
+      "size": 526,
+      "sha256": "8817d10131753d6fd88a7a8c2d311fbfeafa627e237e7b63d239f09119b7e981"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/dq.lua",
+      "size": 358,
+      "sha256": "19f52d63d17e588b2df6e74d0dcab4a9a61d764344158913cd7318d1b639e0e2"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/dq1.lua",
+      "size": 358,
+      "sha256": "a9af452ad1389031a187eebd3ea49f485a0fbdfd7e27332de9e6b9d40be39600"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/getball.lua",
+      "size": 1487,
+      "sha256": "0994b8008b4ac6b6c4defc34edff99add84c234ca9b0c12ab332a1e417eafcb0"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/hc.lua",
+      "size": 1494,
+      "sha256": "a555d63b1091af14b83cc2555057316c4e98153540ac42475323db5c1d5bdccd"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/jq.lua",
+      "size": 1487,
+      "sha256": "c3b8ffc9e357051ce6c3a8afa4c1f2bb0a914a3b7eaa043adceef06891b627bd"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/jq_getball.lua",
+      "size": 1493,
+      "sha256": "154bf60ce914e881ca7c254fc23828a32957fda5e9fd101c0af4ce907c1100ca"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/q_hgetball.lua",
+      "size": 1500,
+      "sha256": "aef70a5b34ebf29045494172b2efd59cdc88bbd095fd9f23e459542a2f41dd19"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/qc.lua",
+      "size": 1495,
+      "sha256": "9c0051291242e3b340bfffac7b7f856e059dec4a1c1e4cd293d9ac55e8819923"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/qc1.lua",
+      "size": 1491,
+      "sha256": "0cd6ff7c55e800b2ba3a0e61bbd57ba63568505d95ef0974b628dfc32cf7ba43"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/qc_hc.lua",
+      "size": 1497,
+      "sha256": "e49926afde4e03aa0e383fa861ded32569302476be91894e23a2cf4cc758bd8a"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zc.lua",
+      "size": 1491,
+      "sha256": "841fb1159002d3ba7199612840e0a7ea494ddf4f8af39448e162618e995c709a"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zcdd.lua",
+      "size": 1486,
+      "sha256": "1d67e6c3aaf41d2051d703d5448b496b06513f680158c83b46dbca330e2dcca6"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zcq.lua",
+      "size": 1494,
+      "sha256": "fe0c6008b598dd8ab806cbd2eefd82b1c1e1f4331d0ad35df9e768fa235a0692"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zcq1.lua",
+      "size": 1491,
+      "sha256": "600ff4a1f1eca13d205e8b86067790483f020fc5d59c92dd09326ae7420b517f"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zcq_1.lua",
+      "size": 1484,
+      "sha256": "45ae82fb0c38b3c69c99ed2c9d7054b8d654b63a46b3517824a8747ce5cf9bd4"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zcq_2.lua",
+      "size": 1491,
+      "sha256": "45df49c4d643810045bf0d9f61e0952197a07c7df2b4776ca736eedac2726c6f"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F1/zcq_3.lua",
+      "size": 1489,
+      "sha256": "6bf626b054481655d566f460fd749e3e651430e56c55e63916a1b7f6d741aa83"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F2/hcq.lua",
+      "size": 1493,
+      "sha256": "ffc1e7a1803b9578f85023c9cd6ce15773c8e08c04b6d49bc30fb97eb3c9610c"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F2/qcq_you.lua",
+      "size": 1494,
+      "sha256": "beadfde2298610d7374a4404ea6dd75e071618b947106fa0b08e125921d146d3"
+    },
+    {
+      "path": "strategy/play/Package/A_Hope_F2/test.lua",
+      "size": 1488,
+      "sha256": "c521b5ecc02cbee662a896100ac94c742b45e1d01e800e19ed9e318119abeb9d"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/a_kaiqiu.lua",
+      "size": 907,
+      "sha256": "cbb5ecf6c9200e429aeb9240d4117c626286430fc0cfbf18f211abee54f08b19"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/a_normalplay.lua",
+      "size": 12462,
+      "sha256": "39420008880fb04c26fb5fc62d101078dbe451b2a86cebe73cbffe401fb0b024"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/BackKick_3v3.lua",
+      "size": 4682,
+      "sha256": "efd2561a630b4774764d39c810652a1eb318b029ae4f417a84aed9e1119973ba"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/jq.lua",
+      "size": 1487,
+      "sha256": "c3b8ffc9e357051ce6c3a8afa4c1f2bb0a914a3b7eaa043adceef06891b627bd"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/kick_kaiqiu.lua",
+      "size": 1981,
+      "sha256": "8e01f5df209e4b6df64e7f8d8851204250f5730efbb0aa4b7f9f9f45df34a2dd"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/Ref_BackDef.lua",
+      "size": 224,
+      "sha256": "d6b162187da00b76b2f913d89212d8c4092cc8956f767c0c0fd3fa101acc33db"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/Ref_BackKick.lua",
+      "size": 723,
+      "sha256": "d3699c95a197a46c7d84aecd3807f4b21dc69e6c00cdba7b906e42fa71b84c70"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/Ref_CornerKick.lua",
+      "size": 1010,
+      "sha256": "3c6d93a1e62a5cc225fc98c42c1b8f8cc1ac2483d47d95e5f58d851e9306405e"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/Ref_MiddleKick.lua",
+      "size": 724,
+      "sha256": "feb7adb7a820bef28bde9951410aa992a549338eaea45e7119efd17f66e2fcf1"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/test.lua",
+      "size": 273,
+      "sha256": "5df0db1c6c45e35a6047995d1f29551ee5b1b9a92509c7ef6c821322f0d8cb75"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/zc_getball.lua",
+      "size": 1499,
+      "sha256": "8283a54e5f81f3145e0d62680a3b3fb1474ab0bb9d7d44e365f0d5bc457844a5"
+    },
+    {
+      "path": "strategy/play/Package/BackDef/zcq_xz_perfect.lua",
+      "size": 1511,
+      "sha256": "83c27ff16a070a046bf990f9fed65a2521a130a2b8887a2117e8395f049e967d"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/bk.lua",
+      "size": 1798,
+      "sha256": "4b61b42081e27299bc11f907b7bc075cf8ca88752b8da285282841a88051e4b3"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/kick.lua",
+      "size": 1782,
+      "sha256": "225619b0798941f2bdd274da25f17aa247b5f875a17c1dce003c849955cf056e"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/Ref_BackKick.lua",
+      "size": 723,
+      "sha256": "d3699c95a197a46c7d84aecd3807f4b21dc69e6c00cdba7b906e42fa71b84c70"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/Ref_BackKick_Demo1.lua",
+      "size": 441,
+      "sha256": "059cc3676bcb82ce5799ebfbbe1d547149154bbf15a9ffd4848bc4a9b51fe987"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/Ref_BackKick_Demo3.lua",
+      "size": 441,
+      "sha256": "8de9419ac1a1614bf0cc67a99e1724c5f1789d7f32860b76e48e842040ebb643"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/Ref_BackKick_Demo4.lua",
+      "size": 441,
+      "sha256": "1d94097650699884aed80c0ce45b73d1693a70fed66181c8eb3e0630efafbc58"
+    },
+    {
+      "path": "strategy/play/Package/BackKick/test.lua",
+      "size": 267,
+      "sha256": "f9efda6fe8b6c487d7dbdb924ffcd11c171ff248f9980f9c584c7e4d0eff1f80"
+    },
+    {
+      "path": "strategy/play/Package/CornerDef/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Package/CornerDef/Ref_CornerDef.lua",
+      "size": 241,
+      "sha256": "85e6969868d00863d021fb00264ac83be0f2db3f6c56fbcd71435241886dc086"
+    },
+    {
+      "path": "strategy/play/Package/CornerKick/kick.lua",
+      "size": 1782,
+      "sha256": "225619b0798941f2bdd274da25f17aa247b5f875a17c1dce003c849955cf056e"
+    },
+    {
+      "path": "strategy/play/Package/CornerKick/Ref_CornerKick.lua",
+      "size": 1001,
+      "sha256": "678018a8d9d7d72c3cf4e20a501717993dc5d1d07cf1beedccc3476a65927086"
+    },
+    {
+      "path": "strategy/play/Package/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Package/FrontDef/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Package/FrontDef/Ref_FrontDef.lua",
+      "size": 237,
+      "sha256": "535ddd0313e75d942cb6c988a7b4e31b9aa8da68ca3b059539ee3eca52a2637b"
+    },
+    {
+      "path": "strategy/play/Package/FrontKick/kick.lua",
+      "size": 1782,
+      "sha256": "225619b0798941f2bdd274da25f17aa247b5f875a17c1dce003c849955cf056e"
+    },
+    {
+      "path": "strategy/play/Package/FrontKick/Ref_FrontKick.lua",
+      "size": 714,
+      "sha256": "05e9c7055984da049af149ad0de7950d28ec3b952d54e7e4d3b169a11b675a70"
+    },
+    {
+      "path": "strategy/play/Package/GameStop/Ref_Stop.lua",
+      "size": 305,
+      "sha256": "ca1620b311279b267989b4aa2a77b22a9064c49dd028e6928776bdec5c16c9f4"
+    },
+    {
+      "path": "strategy/play/Package/KickOff/a_kaiqiu.lua",
+      "size": 917,
+      "sha256": "dc3a10c8173d1f886cf6fb145ac327b229eaf228c0e1fb4dab719d13de717970"
+    },
+    {
+      "path": "strategy/play/Package/KickOff/kick_kaiqiu.lua",
+      "size": 1981,
+      "sha256": "8e01f5df209e4b6df64e7f8d8851204250f5730efbb0aa4b7f9f9f45df34a2dd"
+    },
+    {
+      "path": "strategy/play/Package/KickOff/Ref_KickOff.lua",
+      "size": 1226,
+      "sha256": "3aac02ffeb7a9bb6b94716124b3a860cf171810c212444270160335ccf139047"
+    },
+    {
+      "path": "strategy/play/Package/KickOffDef/def_kaiqiu.lua",
+      "size": 500,
+      "sha256": "63f162cb200b1331c14648a3823f0cc5bff2dc06d06d8cf10e75cfb6aae1efdb"
+    },
+    {
+      "path": "strategy/play/Package/KickOffDef/Ref_KickOffDef.lua",
+      "size": 292,
+      "sha256": "faa2eeb19ff8b9893fbe574b112e54708a57b5a9c5390e2ea72041fcb58cca0f"
+    },
+    {
+      "path": "strategy/play/Package/MiddleDef/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Package/MiddleDef/Ref_MiddleDef.lua",
+      "size": 241,
+      "sha256": "677aea698cf37a83cc9150672a96439cb5c5f9ec150fc477ebb867569da7baaf"
+    },
+    {
+      "path": "strategy/play/Package/MiddleKick/kick.lua",
+      "size": 1782,
+      "sha256": "225619b0798941f2bdd274da25f17aa247b5f875a17c1dce003c849955cf056e"
+    },
+    {
+      "path": "strategy/play/Package/MiddleKick/Ref_MiddleKick.lua",
+      "size": 717,
+      "sha256": "8314314207928d9d51df17aab36300dea120d941156c65089251598a1a1e2d3a"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/a_defense.lua",
+      "size": 3025,
+      "sha256": "9ffaa6aa4d9f42cc90d2defcc0d00b7de16bdd811b9395cfe8cb4164beb878db"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/a_kaiqiu.lua",
+      "size": 1395,
+      "sha256": "b5b291122ea3c89211d6fb6079c51a32bdf451bb8cf5b89c0c51d7000b6fb7cf"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/a_normalplay.lua",
+      "size": 14730,
+      "sha256": "e76dd652a1c5a88cb2fc74db3c4228750223bed608b190c811a6cb07e2392d97"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/a_normalplay2.lua",
+      "size": 5670,
+      "sha256": "1f8d13aeabf396b2ed3b19c98b3c2847c99d3d0766edce42e6e924b7db439621"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/a_test.lua",
+      "size": 9509,
+      "sha256": "e2329df60a49fdc0c12d819297aead43069427e6d22390f6cf08142ecec30238"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/genshin impact.lua",
+      "size": 3926,
+      "sha256": "33659e90717f25ecfd9fd7f2b116ce890cab59e2fcce3e5dc3f8aadaec2b65a5"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/kick.lua",
+      "size": 1782,
+      "sha256": "225619b0798941f2bdd274da25f17aa247b5f875a17c1dce003c849955cf056e"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/NormalPlayDefend.lua",
+      "size": 1092,
+      "sha256": "11cf0d22bcbf36203ddfaf8f11eeb9034ccde876499204880ca85f816e13bfd2"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/NormalPlayDefend_4v4.lua",
+      "size": 1096,
+      "sha256": "bf9945f262b0f63e19f407f059084834fc45a3a330e761d8cc36b30e75f9024d"
+    },
+    {
+      "path": "strategy/play/Package/NormalPlay/test.lua",
+      "size": 288,
+      "sha256": "0956278bc278a098d28688adc1ddecf9c69f430601542b61c5a8f90168c80d21"
+    },
+    {
+      "path": "strategy/play/Package/PenaltyDef/Ref_PenaltyDef.lua",
+      "size": 415,
+      "sha256": "24edf425e60ef0d5844508ae4fda9fcbe50b7b2b8ed358700e366a9c284f5c62"
+    },
+    {
+      "path": "strategy/play/Package/PenaltyKick/Ref_PenaltyKick.lua",
+      "size": 687,
+      "sha256": "ed062a4cdcdf529dd90d4d23a139964fb1d53b67ff0057fad0633a68776dfbe1"
+    },
+    {
+      "path": "strategy/play/Package/PlaceBall/Ref_PlaceBall.lua",
+      "size": 406,
+      "sha256": "5df9468dfc213826534d950a433e3be15bd92bf005d26699d16d735803ddb3b0"
+    },
+    {
+      "path": "strategy/play/Package/PlaceBall/Ref_PlaceBall_Demo1.lua",
+      "size": 716,
+      "sha256": "2bde159687b8bd973133fc8fa4e07c4f3176a3572bba658c240aae491296daea"
+    },
+    {
+      "path": "strategy/play/Package/PlaceBall/TestPlaceBall.lua",
+      "size": 406,
+      "sha256": "98e5eb33dcfd6c05512af95bb0b71108c31cc1972ef416855a5ec906c8d5af9a"
+    },
+    {
+      "path": "strategy/play/Package/PlaceBallDef/Ref_PlaceBallDef.lua",
+      "size": 579,
+      "sha256": "89dd20903b083834e37cc0309690682aafc9f901099ee1a75c4bf5ca6d279ae9"
+    },
+    {
+      "path": "strategy/play/Package/PlaceBallDef/Ref_PlaceBallDef_Demo1.lua",
+      "size": 719,
+      "sha256": "520381a5df4b4f6dd59e83256a0239c762253fdc15745b3a58bda1cf4b5cb2ad"
+    },
+    {
+      "path": "strategy/play/Package/Ref_Halt.lua",
+      "size": 251,
+      "sha256": "b1e78acd72012b5fbc3af622e08295e0c06192d77840f1d002cf3e8092e564c8"
+    },
+    {
+      "path": "strategy/play/Package/RUIKANG/dq.lua",
+      "size": 354,
+      "sha256": "7f4011c12bf25eaef4c3b19fb339ee343fde4e4d71250f62ca44f4efc077fa50"
+    },
+    {
+      "path": "strategy/play/Package/RUIKANG/jq_getball.lua",
+      "size": 1493,
+      "sha256": "154bf60ce914e881ca7c254fc23828a32957fda5e9fd101c0af4ce907c1100ca"
+    },
+    {
+      "path": "strategy/play/Package/RUIKANG/q_hgetball.lua",
+      "size": 1500,
+      "sha256": "aef70a5b34ebf29045494172b2efd59cdc88bbd095fd9f23e459542a2f41dd19"
+    },
+    {
+      "path": "strategy/play/Package/RUIKANG/zc.lua",
+      "size": 1493,
+      "sha256": "df95793388bdd86cdd633624c7714767cf30c3f6fe2a61b0d4649b59f647a332"
+    },
+    {
+      "path": "strategy/play/Package/RUIKANG/zc_getball.lua",
+      "size": 1499,
+      "sha256": "8283a54e5f81f3145e0d62680a3b3fb1474ab0bb9d7d44e365f0d5bc457844a5"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/dianqiu_zhijie_23.lua",
+      "size": 370,
+      "sha256": "9b1b72f4e7453d6f10990a34c4ceaa519b7afdada5af6803115143c4f2bda916"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/hcq_zj_zuoyou_12_wnq_22.lua",
+      "size": 1496,
+      "sha256": "340b5b3cbbec6bbd05bfc2e6d85d65aeb6fd916250465048787883596a0ef012"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/jq_zj_zuoyou_10_22.lua",
+      "size": 1496,
+      "sha256": "19115aa0d2030ba8aa54d9fbdf918e86df3b38973d760a605f563d99cc49e86a"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/qcq_zj_zuoyou_12_wnq.lua",
+      "size": 1500,
+      "sha256": "29876f851dec7c656aa37925eebb0a4c9556d14967b8265fabf4844f9d0efed1"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/qcq_zj_zuoyou_12_wnq_22.lua",
+      "size": 1503,
+      "sha256": "d5967ee5fed93a6b6616c2dd605c8a77f723b4725cc7ff9a2e40af64fd1624cb"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/zcq_xz_22.lua",
+      "size": 1506,
+      "sha256": "b39af29a5f932861019cf6380de6e056190c2996562515e375299aca67349e2c"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F1/zcq_xz_perfect.lua",
+      "size": 1511,
+      "sha256": "83c27ff16a070a046bf990f9fed65a2521a130a2b8887a2117e8395f049e967d"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/all_round.lua",
+      "size": 1496,
+      "sha256": "4925513f3d88a33c56abaca7f2e945dfd1530cc61fab829294dd21fc80a36eb8"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/dianqiu_zhijie.lua",
+      "size": 367,
+      "sha256": "e61c712eb2d794f2541207c6a710c9cd890e840be8f46b851c20f4fd94f31491"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/hcq_qmqm.lua",
+      "size": 1492,
+      "sha256": "a0aec76cac35b0acde8671fe069146155d1af385aafdb92b33685355df757b8b"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/jq_qmqm.lua",
+      "size": 1491,
+      "sha256": "dccd08fac76e672010ac4608154a6c30162aa7e52bacd3ee3e5d1c95b7236dd4"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/jq_qmqm_you.lua",
+      "size": 1495,
+      "sha256": "0e0006b48f49c685d1061fa0ba21f0a378340a880c9b81046d41a9cd50478783"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/jq_qmqm_zuo.lua",
+      "size": 1495,
+      "sha256": "32e2d4a572817360819eb0a3952520d8f45a4f9f013e021317566d28bd3b3902"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/qcq_qmqm.lua",
+      "size": 1496,
+      "sha256": "1ad64e62b635340b3ee83ad2ee2a391bc006ab70cfa8a682021aa4bd56354c15"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/zcq_qmqm.lua",
+      "size": 1492,
+      "sha256": "0ef2e6daaf580b1f6c47939ba3de3ce09ebbc0bb4b00978387550d2f83f5e403"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F2/zhongxian_dd.lua",
+      "size": 1504,
+      "sha256": "dae6d0fe049730a2473500cdd948f161c2f08a707e56d43a56ce372259de21ca"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F3/jq.lua",
+      "size": 1491,
+      "sha256": "50d781c921f14e7f28997c3d96d151669f4fab255cb7c5b32e8a8b0b7afb7259"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F3/qc_hc.lua",
+      "size": 1503,
+      "sha256": "ff8c0abbdb102305113c29780adeffe062d1796059105399c213c24082d22a8c"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F3/zc.lua",
+      "size": 1492,
+      "sha256": "44dd0b65e4c7484d657cd4abf37c506b59c7d13982088d2aadef5738b6dec109"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F3/zc_you.lua",
+      "size": 1496,
+      "sha256": "3d3e60db64f148f819ced36c007d3f5dd2d09243ea7f47bf4e6ff1d498a39553"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F3/zc_zuo.lua",
+      "size": 1496,
+      "sha256": "47b7716bc3b787e2df8df149ac672f7139c16fd577c13c68f908284b210f9144"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F3/zcq_testnq.lua",
+      "size": 1504,
+      "sha256": "77c5f0641b204df85a8931ad215742103d7c89928f09436df64cc4fcad596ec8"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F4/dq1.lua",
+      "size": 358,
+      "sha256": "a9af452ad1389031a187eebd3ea49f485a0fbdfd7e27332de9e6b9d40be39600"
+    },
+    {
+      "path": "strategy/play/Package/Z_Hope_F4/testshoot.lua",
+      "size": 1493,
+      "sha256": "d8231fc00dd88285c2eb20c42dd509ccd877bc13297870f15afe297a9559996c"
+    },
+    {
+      "path": "strategy/play/Ref/Def/BackDef.lua",
+      "size": 64,
+      "sha256": "cd94cee7a09d269e34efd7d6c9b2844dae3d8f067daffb5b67a05919b9b54fca"
+    },
+    {
+      "path": "strategy/play/Ref/Def/CornerDef.lua",
+      "size": 65,
+      "sha256": "ce600529d35b694f29ccfa536ecbbef5d34c23e22393fed9159657c711f660f1"
+    },
+    {
+      "path": "strategy/play/Ref/Def/FrontDef.lua",
+      "size": 40,
+      "sha256": "c34cef09a5af2eba44f02a2c9276bfdb659b08f995f707d3d2e7328221cb4a5f"
+    },
+    {
+      "path": "strategy/play/Ref/Def/MiddleDef.lua",
+      "size": 40,
+      "sha256": "ae4c5b0dff709ceabc342da393e85c53bd4bf421f8bd70e7ee57cbc84800e309"
+    },
+    {
+      "path": "strategy/play/Ref/gameHalt.lua",
+      "size": 25,
+      "sha256": "fbf07934889bc56479eff0e10785618825527cfefd6ad1d7e14d3600ce9e98f2"
+    },
+    {
+      "path": "strategy/play/Ref/gameOver.lua",
+      "size": 25,
+      "sha256": "fbf07934889bc56479eff0e10785618825527cfefd6ad1d7e14d3600ce9e98f2"
+    },
+    {
+      "path": "strategy/play/Ref/gameStop.lua",
+      "size": 39,
+      "sha256": "e9bcf3d58636a9b7d68614746e7db1e56be3f6712618d6c91181fb44e5e16311"
+    },
+    {
+      "path": "strategy/play/Ref/Kick/BackKick.lua",
+      "size": 39,
+      "sha256": "08f5b666eaad98804989944e767571d5eb527afb39ea52dd86628d892df1522f"
+    },
+    {
+      "path": "strategy/play/Ref/Kick/CornerKick.lua",
+      "size": 40,
+      "sha256": "2d29cc5248b9c4dd290ba8c581f3a51625c2eb20c15b3613a714c0fe8776f381"
+    },
+    {
+      "path": "strategy/play/Ref/Kick/FrontKick.lua",
+      "size": 40,
+      "sha256": "8551374a30ad211ec967049592125d59cdc2127aca0bd3906e3698fa4c404b40"
+    },
+    {
+      "path": "strategy/play/Ref/Kick/MiddleKick.lua",
+      "size": 40,
+      "sha256": "35596bd1e064575a9640e4c65c375b8907e02c431e0cec016aba630ada74a568"
+    },
+    {
+      "path": "strategy/play/Ref/ourIndirectKick.lua",
+      "size": 1347,
+      "sha256": "3401a6da85e0ea0d631fc88487845be24853f0cb58595f536106c83ca161e983"
+    },
+    {
+      "path": "strategy/play/Ref/ourKickOff.lua",
+      "size": 106,
+      "sha256": "1e72d87b7ae842d80736024c9f5a8e9a7e6585be8df2a0b3a28c2792123aa3c9"
+    },
+    {
+      "path": "strategy/play/Ref/ourPenaltyKick.lua",
+      "size": 112,
+      "sha256": "b6cf96c4b7b271ec1ef0d7c07ff5608dd34948caafebf572e3be44e14097043c"
+    },
+    {
+      "path": "strategy/play/Ref/ourPlaceBall.lua",
+      "size": 108,
+      "sha256": "febc012e297f5f9652882c7d7e4081c2c2ee7afa3638277d617e79c0b421d134"
+    },
+    {
+      "path": "strategy/play/Ref/ourTimeout.lua",
+      "size": 26,
+      "sha256": "05a96725b93f7e16ba0479df913b7480dd793a943a192b49594975b24d16ae4b"
+    },
+    {
+      "path": "strategy/play/Ref/theirIndirectKick.lua",
+      "size": 1591,
+      "sha256": "528f674b7aa411d3a8ca4ed9fee09e6017b1ec4b7b4809fe6c17188ccf498234"
+    },
+    {
+      "path": "strategy/play/Ref/theirKickOff.lua",
+      "size": 111,
+      "sha256": "fb13ea4b2bca2ff1e98bc0143772f6e1a90fe9884de813777eccaae6885f2eae"
+    },
+    {
+      "path": "strategy/play/Ref/theirPenaltyKick.lua",
+      "size": 110,
+      "sha256": "39109bdd2f257f6ff5f04ef9d543c90af85476d2c7852fa0d92f2b9aa68badb6"
+    },
+    {
+      "path": "strategy/play/Ref/theirPlaceBall.lua",
+      "size": 114,
+      "sha256": "86ca560a8efb942b3ec723ee4eeaa095ab03a1a40ae3f673b1dbd7e484b90edf"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/a_kaiqiu.lua",
+      "size": 907,
+      "sha256": "cbb5ecf6c9200e429aeb9240d4117c626286430fc0cfbf18f211abee54f08b19"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/a_normalplay.lua",
+      "size": 12462,
+      "sha256": "39420008880fb04c26fb5fc62d101078dbe451b2a86cebe73cbffe401fb0b024"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/BackKick_3v3.lua",
+      "size": 4682,
+      "sha256": "efd2561a630b4774764d39c810652a1eb318b029ae4f417a84aed9e1119973ba"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/jq.lua",
+      "size": 1487,
+      "sha256": "c3b8ffc9e357051ce6c3a8afa4c1f2bb0a914a3b7eaa043adceef06891b627bd"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/kick_kaiqiu.lua",
+      "size": 1981,
+      "sha256": "8e01f5df209e4b6df64e7f8d8851204250f5730efbb0aa4b7f9f9f45df34a2dd"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/Ref_BackKick.lua",
+      "size": 723,
+      "sha256": "d3699c95a197a46c7d84aecd3807f4b21dc69e6c00cdba7b906e42fa71b84c70"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/Ref_BackKick_Demo1.lua",
+      "size": 447,
+      "sha256": "3419f26631e4ac11e4971b9acedae8528a34918f2939c7e849ed69a2041629bd"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/Ref_CornerKick.lua",
+      "size": 1010,
+      "sha256": "3c6d93a1e62a5cc225fc98c42c1b8f8cc1ac2483d47d95e5f58d851e9306405e"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/Ref_FrontKick.lua",
+      "size": 723,
+      "sha256": "87562227a31b6558ad31812c01426bfbb17c09a31d3ff697f5166494f9b7e531"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/Ref_FrontKick_3v3.lua",
+      "size": 3794,
+      "sha256": "146ce6f3546394f0bd993a197b894b4fc72f14748784ee49f8a3a1412f2240f6"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/Ref_MiddleKick.lua",
+      "size": 724,
+      "sha256": "feb7adb7a820bef28bde9951410aa992a549338eaea45e7119efd17f66e2fcf1"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/test.lua",
+      "size": 273,
+      "sha256": "5df0db1c6c45e35a6047995d1f29551ee5b1b9a92509c7ef6c821322f0d8cb75"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/zc_getball.lua",
+      "size": 1499,
+      "sha256": "8283a54e5f81f3145e0d62680a3b3fb1474ab0bb9d7d44e365f0d5bc457844a5"
+    },
+    {
+      "path": "strategy/play/Test/BackDef/zcq_xz_perfect.lua",
+      "size": 1511,
+      "sha256": "83c27ff16a070a046bf990f9fed65a2521a130a2b8887a2117e8395f049e967d"
+    },
+    {
+      "path": "strategy/play/Test/BackKick/Ref_BackKick.lua",
+      "size": 723,
+      "sha256": "d3699c95a197a46c7d84aecd3807f4b21dc69e6c00cdba7b906e42fa71b84c70"
+    },
+    {
+      "path": "strategy/play/Test/BackKick/test.lua",
+      "size": 267,
+      "sha256": "f9efda6fe8b6c487d7dbdb924ffcd11c171ff248f9980f9c584c7e4d0eff1f80"
+    },
+    {
+      "path": "strategy/play/Test/CornerKick/Ref_FrontKick.lua",
+      "size": 723,
+      "sha256": "87562227a31b6558ad31812c01426bfbb17c09a31d3ff697f5166494f9b7e531"
+    },
+    {
+      "path": "strategy/play/Test/CornerKick/Ref_MiddleKick.lua",
+      "size": 503,
+      "sha256": "f14095a2ebb3ed3e36477eccc246fcebf1232755b7287dad7dd33b2af51b1798"
+    },
+    {
+      "path": "strategy/play/Test/KickOff/a_kaiqiu.lua",
+      "size": 917,
+      "sha256": "dc3a10c8173d1f886cf6fb145ac327b229eaf228c0e1fb4dab719d13de717970"
+    },
+    {
+      "path": "strategy/play/Test/KickOff/Ref_MiddleKick.lua",
+      "size": 724,
+      "sha256": "feb7adb7a820bef28bde9951410aa992a549338eaea45e7119efd17f66e2fcf1"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/a_defense.lua",
+      "size": 3025,
+      "sha256": "9ffaa6aa4d9f42cc90d2defcc0d00b7de16bdd811b9395cfe8cb4164beb878db"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/a_kaiqiu.lua",
+      "size": 1395,
+      "sha256": "b5b291122ea3c89211d6fb6079c51a32bdf451bb8cf5b89c0c51d7000b6fb7cf"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/a_normalplay.lua",
+      "size": 14730,
+      "sha256": "e76dd652a1c5a88cb2fc74db3c4228750223bed608b190c811a6cb07e2392d97"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/a_normalplay2.lua",
+      "size": 5670,
+      "sha256": "1f8d13aeabf396b2ed3b19c98b3c2847c99d3d0766edce42e6e924b7db439621"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/a_test.lua",
+      "size": 9509,
+      "sha256": "e2329df60a49fdc0c12d819297aead43069427e6d22390f6cf08142ecec30238"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/def.lua",
+      "size": 280,
+      "sha256": "c8d475cf11461e4f859f21b331cb60b6fc1712615498cccd6df1115a3da9383d"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/genshin impact.lua",
+      "size": 3926,
+      "sha256": "33659e90717f25ecfd9fd7f2b116ce890cab59e2fcce3e5dc3f8aadaec2b65a5"
+    },
+    {
+      "path": "strategy/play/Test/NormalPlay/test.lua",
+      "size": 288,
+      "sha256": "0956278bc278a098d28688adc1ddecf9c69f430601542b61c5a8f90168c80d21"
+    },
+    {
+      "path": "strategy/play/Test/Others/BackKick_3v3.lua",
+      "size": 4682,
+      "sha256": "efd2561a630b4774764d39c810652a1eb318b029ae4f417a84aed9e1119973ba"
+    },
+    {
+      "path": "strategy/play/Test/Others/Ref_MiddleKick.lua",
+      "size": 724,
+      "sha256": "feb7adb7a820bef28bde9951410aa992a549338eaea45e7119efd17f66e2fcf1"
+    },
+    {
+      "path": "strategy/play/Test/PlaceBall/Ref_PlaceBall.lua",
+      "size": 406,
+      "sha256": "5df9468dfc213826534d950a433e3be15bd92bf005d26699d16d735803ddb3b0"
+    },
+    {
+      "path": "strategy/play/Test/PlaceBall/TestPlaceBall.lua",
+      "size": 870,
+      "sha256": "616991bec7ec84932f61b5dfa091983c4c5066c535c620d0df8467422330c164"
+    },
+    {
+      "path": "strategy/Play.lua",
+      "size": 3463,
+      "sha256": "0bb6485bc226d2231cd36d9c85ccfc221ce0c7de12bf3205b24f421b200be1b2"
+    },
+    {
+      "path": "strategy/PlayBot.lua",
+      "size": 1456,
+      "sha256": "8151217c71a2344515710c6847ecb35897bb645c14ba56261914e2cd20e9988c"
+    },
+    {
+      "path": "strategy/SelectPlay.lua",
+      "size": 2227,
+      "sha256": "b78d807a51f5fe722dfb5b217a7d1b7def12fc68a69577e590840a741696459d"
+    },
+    {
+      "path": "strategy/skill/DefenderSkill.lua",
+      "size": 769,
+      "sha256": "d9cf0c711e7b8c5d577b9f55fd9fec38658d0a050474957fdd17343ed78816dd"
+    },
+    {
+      "path": "strategy/skill/GoalieSkill.lua",
+      "size": 763,
+      "sha256": "0e675a511aa4eb77a885d6b194124f5f62f23e5ff288b5ffd1c83d6cefe12a63"
+    },
+    {
+      "path": "strategy/skill/KickerSkill.lua",
+      "size": 902,
+      "sha256": "ac34eb03a2938e617bbed8ce5b8bbe4cd04f2a334331101f9013cf6643e2b8ce"
+    },
+    {
+      "path": "strategy/skill/MiddleSkill.lua",
+      "size": 763,
+      "sha256": "0ea117766be15421fdaa381411d94a0d71c17f2f24fb6e98c4ee284fa2404c2a"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/getball.lua",
+      "size": 467,
+      "sha256": "df22d510ce1f854244fddf61fba6bd42f03f616c5748f9ddd0492890b0586b19"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/getoppnums.lua",
+      "size": 771,
+      "sha256": "8cd8a50ec1bb82d573412b2ac169821666b481223ab1b09029c191dc40534c70"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/getplacex.lua",
+      "size": 132,
+      "sha256": "942331b5377a973115dfec2f0392d9cf60d5c4e25cf79c8267bdee8cde2c81ca"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/getplacey.lua",
+      "size": 132,
+      "sha256": "c6ea9e83f176476ecae2afb8745b627a3e09736320c9681f7758289edaae9e75"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/goalie.lua",
+      "size": 119,
+      "sha256": "1352552afbb578f042a3d622dffbb935ce1c78e34fec6917a539704f657ec2b5"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/goreceivepos.lua",
+      "size": 303,
+      "sha256": "7b958e3d7a6c73d46172d42f597c4b3fc736f9520c60773a8084dddf2cca0ca9"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/gotopos.lua",
+      "size": 823,
+      "sha256": "4f7775e93bf269c23a74e24f456908ea586adad8fa9d9a81ababff596eb91422"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/halt.lua",
+      "size": 244,
+      "sha256": "2700ec117d5182ef6af6fc86a36e14986542be031ba1056f806d18ad70146eb1"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/normaldef.lua",
+      "size": 264,
+      "sha256": "09bd7a24d5097c22307e7623b632648f6637d618fe562310599e6d0277a69361"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/passball.lua",
+      "size": 376,
+      "sha256": "43b7d835dc05c5f93d345addffd192152149ff91a7aee2ca52adbc6940e0751d"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/penaltydef.lua",
+      "size": 138,
+      "sha256": "8208bb8e7fed1100bc33cbdc1de6a32aa4045d948dada701cf23318e796e4431"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/penaltykick.lua",
+      "size": 244,
+      "sha256": "ca9ca31d54f66faf211f37adc045fc50dca15e3341f4cb67fb9ff9ddf7ed7b0a"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/receiveball.lua",
+      "size": 272,
+      "sha256": "b24dec35fcd0645084261bf4590b7f4d6b52a6ca000e0a0d688b68e5ade4249b"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/refdef.lua",
+      "size": 233,
+      "sha256": "7b55038a9537ce2665153467ad15a4a6ff828718864b1abbe162638ad531f620"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/shoot.lua",
+      "size": 456,
+      "sha256": "6a7b3de52bf48ceeae91c4e0a88460e7d3448bb8150f615ff2bdb459369c9b36"
+    },
+    {
+      "path": "strategy/skill/PlayBotSkill/stop.lua",
+      "size": 374,
+      "sha256": "82da047f6de80301814119a29b83cd9d423ca532b33dfac100a272c46ebf5525"
+    },
+    {
+      "path": "strategy/skill/ReceiverSkill.lua",
+      "size": 769,
+      "sha256": "75766d7337a6a3d76489fcc2966637f0124cc3ff15305e4a4f300e8d822f364c"
+    },
+    {
+      "path": "strategy/skill/TierSkill.lua",
+      "size": 753,
+      "sha256": "ae9cfb7b840b3b68dbee3bb1782223f7de3546caa2859bf16a33a17e492c4e66"
+    },
+    {
+      "path": "strategy/Skill.lua",
+      "size": 177,
+      "sha256": "fd5166126ddf4077e0bd01d44d83720c1cef7b72b836ba635316f003ff070a23"
+    },
+    {
+      "path": "strategy/StartPlayBot_blue.lua",
+      "size": 97,
+      "sha256": "4a65ad300fef9c330601fcfdef583fc28c35b5a28d6154a4a38967d09a3f5ce5"
+    },
+    {
+      "path": "strategy/StartPlayBot_yellow.lua",
+      "size": 99,
+      "sha256": "328136a0c2df40838cb48ec240c366201130ce1604c7c65ed938a6cb900efee9"
+    },
+    {
+      "path": "strategy/test.lua",
+      "size": 288,
+      "sha256": "0956278bc278a098d28688adc1ddecf9c69f430601542b61c5a8f90168c80d21"
+    },
+    {
+      "path": "strategy/worldmodel/task.lua",
+      "size": 2108,
+      "sha256": "487e3b3e17e10164cd41ef8be4c3f1ca4e450ad98be9bbf71b2af3caed38effc"
+    },
+    {
+      "path": "config/data/robot_v2.xml",
+      "size": 1242,
+      "sha256": "3e761003b061a9aa44ff5a8361d1ee7d3d852144725daa9b9eee3775c1c2cbec"
+    },
+    {
+      "path": "config/params/KickParam.cfg",
+      "size": 2850,
+      "sha256": "c527a001f5f3dca18c4cb85870cef2000bf0a0313107cc76e86afccaf29c6bd9"
+    },
+    {
+      "path": "config/params/zeus2005.xml",
+      "size": 3091,
+      "sha256": "551c7d570085c78bab001bda8f7d6f7f68576e2a50f559d7f8244784d06fe06b"
+    },
+    {
+      "path": "config/PlayBot_Blue.xml",
+      "size": 2086,
+      "sha256": "b2e45526c23fee4d8106f57e8a7d44f010d83606d86c516f930a9a2125248a62"
+    },
+    {
+      "path": "config/PlayBot_Yellow.xml",
+      "size": 2085,
+      "sha256": "0cf7e04856b39110eaac4c9e3a5b8d7f4fb8ba78f83672a8cbdf4587b5e059aa"
+    },
+    {
+      "path": "config/user_skills/TestPlaceBall.lua",
+      "size": 1554,
+      "sha256": "1781a8c519b019f80ab526c2be902f78ebd3fd7b8aca47ad2623111beffcbda3"
+    }
+  ]
+}
