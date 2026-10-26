@@ -146,7 +146,7 @@ end
 
 function Play_Exit(play_name)
 	if(gPlayTable[play_name] ~= nil) then
-		if gCurrentState == "finish" or gCurrentState == " exit" then
+		if gCurrentState == "finish" or gCurrentState == "exit" then
 			return true
 		else
 			return false

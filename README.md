@@ -64,7 +64,7 @@ python scripts/validate_repository.py
 
 The validator checks:
 
-1. every Lua file parses as Lua syntax;
+1. every retained Lua file parses as Lua syntax;
 2. JSON and XML configuration files parse;
 3. no compiled binaries or build artifacts are present;
 4. every retained source file is represented in `SOURCE_MANIFEST.json`.
